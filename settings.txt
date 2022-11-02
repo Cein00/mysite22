@@ -1,0 +1,18 @@
+{"site_url":"http://localhost:8000",
+"site_title": "Maria Dobosh: Python разработчик и автор контента",
+"description": "Добош Мария - портфолио, резюме и блог Python разработчика",
+"keywords": "Веб-разработка на Python, бэкенд на Django и Flask",
+"name": "Добош Мария",
+"tag1":"Разработчик тестового сайта",
+"tag2":"с использованием Flask",
+"sect1":"Главная",
+"sect2":"Резюме",
+"sect3":"Портфолио",
+"sect4":"Блог ",
+"sect5":"Контакты",
+"telegram":"https://t.me/Cein00",
+"facebook":"ttps://facebook.com/john.doe",
+"vk":"https://vk.com/",
+"email":"mailto:john_doe@gmail.com",
+"city":"Москва"
+}
