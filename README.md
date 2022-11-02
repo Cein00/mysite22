@@ -4,4 +4,4 @@
 
 [Flask за час. Часть 2: завершаем разработку и размещаем сайт на GitHub Pages](https://proglib.io/p/flask-za-chas-chast-2-zavershaem-razrabotku-i-razmeshchaem-sayt-na-github-pages-2022-06-22)
 
-![site](https://user-images.githubusercontent.com/85797091/176396130-943941d7-a5de-4828-af88-c5ed2657032f.jpg)
+# ![site](https://user-images.githubusercontent.com/85797091/176396130-943941d7-a5de-4828-af88-c5ed2657032f.jpg)
