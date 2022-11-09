@@ -13,6 +13,6 @@
 "telegram":"https://t.me/Cein00",
 "facebook":"ttps://facebook.com/john.doe",
 "vk":"https://vk.com/",
-"email":"mailto:john_doe@gmail.com",
-"city":"Москва"
+"email":"mailto:doboshmaria00@gmail.com",
+"city":"Калинград"
 }
